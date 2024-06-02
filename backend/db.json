@@ -1,0 +1,25 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "descricao": "Estudar Angular",
+      "statusFinalizado": true,
+      "categoria": "Estudos",
+      "prioridade": "Alta"
+    },
+    {
+      "id": 2,
+      "descricao": "Limpar o quarto",
+      "statusFinalizado": false,
+      "categoria": "Casa",
+      "prioridade": "Normal"
+    },
+    {
+      "id": 3,
+      "descricao": "Organizar rotina",
+      "statusFinalizado": false,
+      "categoria": "Trabalho",
+      "prioridade": "Baixa"
+    }
+  ]
+}
