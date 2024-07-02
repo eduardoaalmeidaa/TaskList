@@ -2,8 +2,8 @@
 
 ## Visão Geral
 
-Projeto CRUD desenvolvido para gerenciar suas tarefas diárias de maneira eficiente e interativa. 
-Com uma interface intuitiva e animações suaves, nosso aplicativo torna a organização das suas atividades uma experiência agradável.
+Projeto CRUD desenvolvido para gerenciar tarefas diárias de maneira eficiente e interativa. 
+Com uma interface intuitiva e animações suaves, o app torna a organização das atividades uma experiência agradável.
 
 ## Tecnologias Utilizadas
 ### Angular
